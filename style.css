@@ -6,3 +6,11 @@
 h1 {
   padding: 2rem;
 }
+h2 {
+  padding: 30px;
+}
+
+input[type="text"] {
+  background-color: red;
+}
+
